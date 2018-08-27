@@ -84,4 +84,7 @@ You'll need the `View ID` displayed there.
 ![8](https://spatie.github.io/laravel-analytics/v2/8.jpg)
 
 
-#- /now you can get reports on /google-analytics/show
+#- /now you can get reports on
+```bash
+/google-analytics/show
+```
